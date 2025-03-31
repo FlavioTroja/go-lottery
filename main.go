@@ -36,8 +36,6 @@ func main() {
 
 	saluto := s.Saluta()
 
-	fmt.Println(saluto.Saluta("Flavio"))
-
 	fmt.Println(saluto)
 	fmt.Println("Età:", s.Età)
     fmt.Println("Punteggio:", s.Punteggio)	
